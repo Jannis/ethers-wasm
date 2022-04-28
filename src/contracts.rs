@@ -1,3 +1,3 @@
-use ethers_contract_derive::abigen;
+use ethers::contract::abigen;
 
 abigen!(Factory, "./abis/factory.json");

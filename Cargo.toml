@@ -27,6 +27,7 @@ console_error_panic_hook = { version = "0.1.6", optional = true }
 wee_alloc = { version = "0.4.5", optional = true }
 ethers-contract-derive = "0.6.3"
 ethers-contract = "0.6.2"
+ethers-providers = "0.6.2"
 
 [dev-dependencies]
 wasm-bindgen-test = "0.3.13"
